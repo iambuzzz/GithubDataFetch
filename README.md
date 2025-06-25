@@ -28,18 +28,12 @@ A sleek and minimal web app to search and view GitHub user profiles — built wi
 
 ---
 
-## 📸 Demo
-
-> Enter any valid GitHub username and see their profile in seconds.
-
-Try entering usernames like `torvalds`, `gaearon`, or your own!
-
----
-
 ## 📂 Project Structure
 
 ```bash
 GithubDataFinder/
+├── assets/
+    ├── sc.png       # Screenshot 
 ├── index.html       # UI structure
 ├── script.js        # JavaScript logic to fetch and display data
 └── README.md        # Project documentation
