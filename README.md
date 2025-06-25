@@ -3,7 +3,7 @@
 
 A sleek and minimal web app to search and view GitHub user profiles — built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**.
 
-![screenshot](https://github.com/your-username/GithubDataFinder/assets/sc.png)
+![screenshot](https://github.com/iambuzzz/GithubDataFinder/assets/sc.png)
 ---
 
 ## 🚀 Features
