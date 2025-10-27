@@ -1,6 +1,9 @@
 # GithubDataFetch
 ## 🔍 GitHub User Finder
 
+## Wanna Try it? 
+### Live Link : [https://githublite.onrender.com/]
+
 A sleek and minimal web app to search and view GitHub user profiles — built with **HTML**, **Tailwind CSS**, and **Vanilla JavaScript**.
 
 ![screenshot](assets/sc.png)
