@@ -18,8 +18,9 @@ A sleek and minimal web app to search and view GitHub user profiles — built wi
 - Responsive and clean UI using Tailwind CSS
 
 ---
-## Wanna Try it? 
-### Live Link : https://githublite.onrender.com/
+### Wanna Try it? 
+- Live Link : https://githublite.onrender.com/
+---
 
 ## 🧰 Tech Stack
 
